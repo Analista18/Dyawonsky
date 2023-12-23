@@ -18,7 +18,7 @@ I'm a Professional Certified Data Analyst from IBM programme and  I have a lot o
  <img align= "left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img  align= "left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img align= "left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <object data="happy.svg" width="300" height="300"> </object>
+ <object data="happy.svg" width="30px" height="30px"> </object>
 
  <br />
   
