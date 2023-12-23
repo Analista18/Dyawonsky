@@ -13,11 +13,11 @@ I'm a Professional Certified Data Analyst from IBM programme and  I have a lot o
   ### 🧠 Languages and Tools
 
   
- <img align= "left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
- <img align= "left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img  align= "left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
- <img align= "left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align= "left" alt="Sql" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/117561/microsoft-excel-2019" />
+ <img align= "left" alt="Sql" width="30px" style="padding-right:10px;" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+ <img align= "left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img  align= "left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ <img align= "left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img align= "left" alt="Sql" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/117561/microsoft-excel-2019.svg" />
 
 </svg>
  
