@@ -19,7 +19,8 @@ I'm a Professional Certified Data Analyst from IBM programme and  I have a lot o
  <img  align= "left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img align= "left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align= "left" alt="git" width="30px" style="padding-right:10px;" src=" https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" />
- 
+ <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 
  <br />
   
