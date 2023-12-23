@@ -9,7 +9,7 @@ I'm a Professional Certified Data Analyst from IBM programme and  I have a lot o
  
 <p align="left">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/dyawonsky-blanc-164b442a5/?trk=public-profile-join-page"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/dyawonsky-blanc-164b442a5/?trk=public-profile-join-page"><img width="32px" height="50px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
  
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
