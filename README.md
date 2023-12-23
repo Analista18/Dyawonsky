@@ -17,6 +17,8 @@ I'm a Professional Certified Data Analyst from IBM programme and  I have a lot o
  <img align= "left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img  align= "left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img align= "left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ ![image](https://github.com/Analista18/Dyawonsky/assets/154425407/3a86e423-61a9-493a-9db5-88c36cf370f3)
+
  <br />
   
   #       
