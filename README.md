@@ -1,6 +1,6 @@
 ### Hi 👋
 
-** `Data Cratfsman (Data Analysis/)` **
+** `Data Cratfsman (Data Analysis/dashboards/developing KPI reports.)` **
 
 #### ♨️ Dyawonsky Blanc
 
